@@ -1,0 +1,22 @@
+PubMed way is:
+
+1. Send to: 
+2. File
+3. Format: MEDLINE (we can also choose XML, PMID List, or CSV)
+4. Sort by: Best Match (or Most Recent, Publication Date, First Author, Last Author, Journal Title, or Title)
+5. Create file
+
+
+On 9/15/17, 4:18 PM, "Burns, Christopher" <sean.burns@uky.edu> wrote:
+
+    I think you got this figured out but this was the EB way to export by relevance 
+    sort order:
+    
+    Ebsco:
+    
+    1. conduct search
+    2. click on SHARE button
+    3. click on "E-mail a link to download exported results"
+    4. complete information
+    
+
